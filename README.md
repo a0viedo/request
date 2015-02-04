@@ -1,4 +1,4 @@
-# Request — Simplified HTTP client
+# Request — HTTP client
 [![npm package](https://nodei.co/npm/request.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/request/)
 
 [![Build status](https://img.shields.io/travis/request/request.svg?style=flat)](https://travis-ci.org/request/request)
